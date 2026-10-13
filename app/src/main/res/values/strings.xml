@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nova</string>
+    <string name="app_tagline">Приложение готово к установке</string>
+    <string name="tab_overview">Обзор</string>
+    <string name="tab_device">Телефон</string>
+    <string name="tab_apk_info">APK файл</string>
+    <string name="status_distribution_ready">Сборка готова к работе</string>
+    <string name="package_name_label">Имя пакета</string>
+    <string name="version_label">Версия</string>
+    <string name="target_sdk_label">Целевой SDK</string>
+    <string name="min_sdk_label">Минимальный SDK</string>
+    <string name="device_model_label">Модель телефона</string>
+    <string name="android_version_label">Версия Android</string>
+    <string name="quick_actions_header">Быстрые действия</string>
+    <string name="btn_test_action">Проверить работу</string>
+    <string name="btn_share_info">Скопировать данные</string>
+    <string name="apk_features_title">Параметры сборки</string>
+</resources>

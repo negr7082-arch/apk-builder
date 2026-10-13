@@ -1,0 +1,6 @@
+{
+  "name": "Nova",
+  "description": "A sleek, modern Android application dashboard with system stats, quick actions, and distribution-ready packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
